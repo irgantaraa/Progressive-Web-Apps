@@ -1,0 +1,17 @@
+{
+    "name": "pwa-1-kel36",
+    "version": "1.0.0",
+    "description": "Praktikum MDP PWA Jilid 1",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1 -p 8000"
+    },
+    "keywords": [
+        "pwa"
+    ],
+    "author": "Asisten MDP PWA 1",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
