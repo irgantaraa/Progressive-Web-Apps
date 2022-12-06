@@ -12,6 +12,6 @@
     "author": "Asisten MDP PWA 1",
     "license": "UNLICENSED",
     "devDependencies": {
-        "http-server": "^0.10.0"
+        "http-server": "^14.1.1"
     }
 }
